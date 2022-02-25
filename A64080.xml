@@ -1,0 +1,544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tyrconnel's letter to the French King from Ireland</title>
+            <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64080</idno>
+            <idno type="STC">Wing T3579A</idno>
+            <idno type="STC">ESTC R20922</idno>
+            <idno type="EEBO-CITATION">12177845</idno>
+            <idno type="OCLC">ocm 12177845</idno>
+            <idno type="VID">55567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tyrconnel's letter to the French King from Ireland</title>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to Richard Tyrconnel. cf. NUC pre-1956.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:55567:1"/>
+            <head>Tyrconnel's Letter TO THE FRENCH KING, FROM IRELAND.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licenſed</hi> 
+                           <date>Auguſt 18. 1690.</date>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Thrice Invincible, Thrice Auguſt, and Thrice Chriſtian Majeſty,</salute>
+                  </opener>
+                  <p>WHilſt for many years the moſt thinking Stateſmen have not been at a loſs, nor altogether in the Dark, when they have conſidered, That the vaſt and <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>pendious Growth, and Preparations of the <hi>French</hi> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>own, muſt neceſſarily produce moſt Aſtoniſhing <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d unaccountable Effects and Revolutions on the <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>heatre of the World: Now is the Time, when <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ur <hi>Intrepid Councils,</hi> your Irreſiſtable <hi>Arms,</hi> your <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>fathomable <hi>Conduct,</hi> and ſtupendious <hi>Alli<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ces,</hi> are to ſhew themſelves in the Acqueſt of that <hi>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ory,</hi> which muſt unavoidably be the Conſequence of <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ch Sagacious, Cloſe, and Important Deſigns.</p>
+                  <p>It is by theſe Inimitable Methods, that your unri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l'd Majeſty hath Aggrandiz'd the Throne of <hi>France,</hi> 
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hilſt the immortal Names of <hi>Nero</hi> and <hi>Caligula,</hi> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll fade and languiſh, when that more Tremendous <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>le of <hi>Lewis the Great</hi> ſhall be mentioned. The <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighty <hi>Lewis,</hi> who ſits at the Steerage of the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erſe, having graſp'd the Power of the Fates in his <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ands, and can ſink or ſwim the trembling Veſſel at <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Pleaſure. This hath occaſion'd ſome of our <hi>Modern Divines</hi> to ſee the <hi>Deity</hi> through the <hi>Hero,</hi> 
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd, with a Flattery beyond any but your own Ab<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſt Paraſites, give you a Style no leſs Sacred and <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mmortal, than that of the <hi>Gods</hi> of Old; There <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anted nothing but the Aſſigning <hi>Altars,</hi> and a <hi>Ser<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ce,</hi> and you might have ſat in the <hi>Pantheon,</hi> if that <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ompany be not too much beneath your Standard.</p>
+                  <p>With what poliſh'd Foreheads have our <hi>Jacobited Clergy,</hi> and their inferiour <hi>Fry</hi> of <hi>Kittling Tories</hi> made the Coffee-houſes and Clubs of the Town, re<g ref="char:EOLhyphen"/>ſound with your unparallell'd <hi>Victories</hi> and <hi>Succeſſes?</hi> The <hi>Glory</hi> of your <hi>Arms,</hi> the <hi>Grandure</hi> of your <hi>Em<g ref="char:EOLhyphen"/>pire?</hi> The <hi>Wealth,</hi> Eaſe, and Luxury of your <hi>Vaſſals,</hi> have been their daily Theams, not omitting the unſpeakable <hi>Happineſs</hi> of thoſe that have put them<g ref="char:EOLhyphen"/>ſelves under the Umbrage of your <hi>Protection.</hi>
+                  </p>
+                  <p>O! Had the <hi>Courage</hi> of their Hands equall'd the <hi>Rhodomontades</hi> of their Tongues, your Royal <hi>Allie,</hi> our <hi>Abdicating</hi> Maſter had again been Re-inſtated in the Throne of <hi>Britain,</hi> and call'd his perfidious Peo<g ref="char:EOLhyphen"/>ple to account, for oppoſing his Sacred Deſigns of <hi>Reſtoring</hi> Religion to Priſtine <hi>Paganiſm;</hi> the Monar<g ref="char:EOLhyphen"/>chy to an <hi>Abſolute, <g ref="char:V">Ʋ</g>ncontroulable,</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>nlimited Sway;</hi> and the People to an Orthodox, Couchant, Bigotted State of <hi>Slavery.</hi>
+                  </p>
+                  <p>But that the Infallible Maxims of Polity, where<g ref="char:EOLhyphen"/>by your <hi>All-ſubduing Majesty</hi> arrived to this indiſput<g ref="char:EOLhyphen"/>able Power, may now at length, ſhine forth in their Native Luſtre, and convince the ſtupid World, how impoſſible it was for them to hinder the Ac<g ref="char:EOLhyphen"/>compliſhment of your glorious Purpoſes; I ſhall with all humble Reverence, preſume to open the ſacred <hi>Cabinet</hi> of your moſt Chriſtian <hi>Intrigues,</hi> that the whole World may ſee how <hi>
+                        <g ref="char:V">Ʋ</g>navoidable</hi> it is for them to become your <hi>Vaſſals.</hi>
+                  </p>
+                  <p>The Foundation of that ſtupendious <hi>Machine</hi> upon which the whole Texture of your Majeſties <hi>Glorious</hi> Projects have moved, may aptly fall under theſe four Conſiderations, mention'd in the begin<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:55567:2"/>which gives an undeniable Demonſtration of your profound Sagacity, and the great <hi>Aſcendence</hi> you have acquired over Princes of inferiour Allay. I ſhall touch theſe in Order, and ſpeak,</p>
+                  <p n="1">1 Firſt of your <hi>Council,</hi> which may be divided into two Parts, <hi>Simple,</hi> and <hi>Mixt.</hi>
+                  </p>
+                  <p>That which I call <hi>Simple,</hi> is either the uncom<g ref="char:EOLhyphen"/>pounded Advice which is taken from the mighty <hi>Oracles</hi> of Cardinal <hi>Mazarine</hi>'s Papers, when the <hi>Great Lewis</hi> retires into the Conclave of his Cloſet to conſult his <hi>Father,</hi> Guardian and Tutor, who having the <hi>Ambition</hi> of an <hi>Eccleſiaſtick,</hi> and the <hi>Subtilty</hi> of a <hi>Stateſman,</hi> eaſily foreſaw, 'twas im<g ref="char:EOLhyphen"/>poſſible for <hi>France</hi> to encreaſe, as long as that Great Captain, and Politician <hi>Cromwel,</hi> ſate at the Helm of <hi>England:</hi> Therefore 'twas neceſſary to Contract private Alliances with the <hi>Exil'd Princes,</hi> and to give them ſuch meaſures, that <hi>France</hi> might always keep the <hi>Aſcendent.</hi>
+                  </p>
+                  <p>He that conſiders the ſtate of your Majeſties Kingdom in the <hi>Year</hi> 60, and the prodigious <hi>In<g ref="char:EOLunhyphen"/>crement</hi> it is arrived to ſince, may eaſily be ſatisfi<g ref="char:EOLhyphen"/>ed in this.</p>
+                  <p>But the more <hi>ſimple Council</hi> is, when your moſt <hi>Auguſt</hi> Monarchſhip conſults only your <hi>own Will</hi> and <hi>Pleaſure;</hi> and then by an <hi>
+                        <g ref="char:V">Ʋ</g>ncontroulable</hi> Power, raiſe an <hi>ARMT</hi> to thaw the Snow off the ſides of the Alpes with their Encampments, whilſt the <hi>Vicar General</hi> at Rome is compelled to ſet up the <hi>Picture</hi> and <hi>Hatchment</hi> of <hi>your Divinity</hi> above that of his <hi>Holineſs;</hi> and by a formal <hi>Embaſſie</hi> to ſupplicate, That the <hi>Trophies</hi> of your Glorious Victories may be encloſed from the publick View, leaſt the Inhabitants of <hi>Rome</hi> fall to their old Exceſs of Loyalty, to <hi>Deiſie</hi> their Empe<g ref="char:EOLhyphen"/>rour.</p>
+                  <p>Your <hi>mixt Council</hi> is ſuch, as of whom it may without Vanity be ſaid, That no Prince in the World, except the Prince of Darkneſs himſelf, ever ſaw the Fellows of them: Their <hi>Councils</hi> ſo <hi>cloſe</hi> and <hi>dark;</hi> Their <hi>Deſigns</hi> ſo <hi>Impenetrable</hi> and <hi>deep,</hi> as if brooded in the Infernal Region: Nor has it been in the power of your Enemies, with all their Subtilty, to bring their amazing Pro<g ref="char:EOLhyphen"/>jects to <hi>Light,</hi> 'till they have diſcovered themſelves by the Radiant Beams of <hi>Opulent Cities</hi> all on <hi>Fire,</hi> and <hi>Fertil Villages</hi> in <hi>Blaze.</hi> What did they ever ſtick at, that might advance the Grandure of your Throne, and ſpread your devouring Le<g ref="char:EOLhyphen"/>gions over the Neighbouring Provinces? Have they not precipitated your Majeſty on all thoſe Glorious Enterprizes that muſt render you the moſt accompliſh'd of <hi>H<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>roes,</hi> and Eternize your Memory in the ſame <hi>fragrant</hi> and <hi>immortal</hi> Roll with <hi>Julian, Tarquin,</hi> and <hi>Heliogabalus?</hi> With what Indefatigable Zeal have your great Miniſters been liſting up the Reputation of your Faith and Veracity, of which the <hi>Exiling</hi> your <hi>Proteſtant</hi> Subjects, and <hi>Ravaging</hi> the Territories of you<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Neighbour</hi> Princes and Allies, are ſuch ſtandin<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Teſtimonies, that they have raiſed <hi>Monuments</hi> t<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Fame, that will out-laſt your <hi>Statues, Pillars,</hi> and <hi>Triumphal</hi> Arches. So that what was onc<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſaid of your Neighbouring Clergy, may no<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with greater Reaſon be applied; <hi>Clerus Brittanic<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> ſlupor<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Mundi,</hi> may very aptly be recorded of you Matchleſs Council; They are, <hi>like their ſtupendi<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Maſter,</hi> the Wonder and Aſtoniſhment of th<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> reſt of Mankind. And when your <hi>Sultanſhip</hi> deſcen<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to ſit in <hi>Divan</hi> among them, you look ſo like th<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Son of the Sun,</hi> or <hi>Jupiter Hammon,</hi> or what yo<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pleaſe, that compared to your Greatneſs, all you Predeceſſors look'd but like <hi>Tooth-drawers</hi> or <hi>Jac<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Puddings.</hi>
+                  </p>
+                  <p n="2">2. And this, moſt Auguſt Monarch, brings m<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the ſecond Head (viz.) your <hi>Allies,</hi> whic<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſpeak you no leſs formidable then your Counci<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> If the ſtrength of a Monarch be to be Calc<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lated from the conſiderableneſs of his <hi>Alliances</hi> Thoſe of the Mighty <hi>lewis</hi> cannot but ſpeak yo<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Majeſty very terrible to the Oppoſers of yo<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Greatneſs; for that, having for many years co<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tracted an Amity with your <hi>Brother</hi> of the <hi>Alcors</hi> He hath on his part ſo irrefragably ſtuck to yo<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> powerful Intereſt, that it hath not only coſt t<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <hi>diſplacing</hi> one <hi>Emperour</hi> from the <hi>Throne,</hi> but e<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dangered the total <hi>ſhaking off</hi> the Empire from th<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>preſent Sultan:</hi> Notwithſtanding which, ſo Inviolab are his Reſolutions of preſerving your Majeſti<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Friendſhip, that he <hi>prefers</hi> it above the <hi>Contem<gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ible Throne</hi> of <hi>Mahomet;</hi> and there being ſo gre<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> a <hi>Reſemblance</hi> in your Deſigns, there is no fe<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of his falling off, unleſs ſome unhappy Different ſhould ariſe betwixt the <hi>Muſti,</hi> and the <hi>Arch ſhop</hi> of <hi>Paris</hi> about <hi>Precedence.</hi>
+                  </p>
+                  <p>Others, which your Immenſe Wiſdom admitted t<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Honour of your Friendſhip, were the <hi>two la<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Kings</hi> of <hi>Great Britain,</hi> who likewiſe poſtponing a<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Conſiderations to that of ſerving your exalted I<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tereſts, gave up <hi>themſelves</hi> and their <hi>Councils</hi> to b<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wholly at your Majeſties Diſpoſal. The <hi>firſt</hi> of the<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> was ſo entirely devoted to the purſuit of his <hi>ſenſ<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> Appetites, as if the <hi>Safety, Honour</hi> and <hi>Wealth</hi> of <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Kingdoms had not appertained to <hi>his</hi> Care, but th<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all the <hi>Truſt, Power,</hi> and <hi>Intereſt</hi> he was exalted <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> had been only entruſted with him to aggrandi<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> your ſacred Sultanſhip, and to capacitate your M<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>jeſty for the attaining your <hi>vaſt unbounded</hi> Deſign<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 'Twas this gave the <hi>riſe</hi> to that mighty <hi>Flota,</hi> whic<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from your Majeſty juſtly claims the Name of <hi>Invi<gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>cible:</hi> This was it, That made <hi>him</hi> hold the Neigh<g ref="char:EOLhyphen"/>bouring Princes in <hi>ſuſpence</hi> with Treaties, League<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and pretended Alliances, till your Majeſty had by a<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unpractiſed Method taken their Provinces, and Te<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ritories into your powerful <hi>Protection,</hi> and <hi>Poſſ-ſſ<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> And it was this made the <hi>Faith</hi> and <hi>Conduct</hi> of th<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:55567:2"/>unw<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y <hi>Prince</hi> of very little <hi>Reputation</hi> amongſt the <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r Potentates of <hi>Europe,</hi> as was well and nota<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> expreſſed to your victorious Majeſty, upon deli<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing up the Keys of the City of <hi>Ghent,</hi> and lay<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> them at your Illuſtrious Feet.</p>
+                  <p>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>he <hi>laſt</hi> of theſe by an Act of <hi>ſuperlative, inimita<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> and <hi>unpreſidented Friendſhip,</hi> ſo abſolutely <hi>renoun<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> all his own Intereſt to his <hi>Crown,</hi> and <hi>Kingdoms,</hi> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> he relinquiſhed, and <hi>abdicated them</hi> All, rather <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n not follow that incomparable Pattern, your <hi>ab<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Majeſty had ſet him, to <hi>compel</hi> all his People <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſubmit to what <hi>Law,</hi> and what <hi>Religion</hi> the <hi>un<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ing Wiſdom</hi> of a Prince, who alone aſpired to the <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>our of being <hi>like</hi> your Majeſty, ſhould think fit <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>et up. Oh! had his <hi>Troops</hi> been ſo good <hi>Apoſtles</hi> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your <hi>Dragoons,</hi> and the Doctrin of <hi>Paſſive Obedience</hi> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n as heartily <hi>obeyed,</hi> and <hi>practiſed,</hi> as it was <hi>preach'd, <gap reason="illegible: in gutter" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> inculcated,</hi> what a happy <hi>Reformation</hi> had been on the Face of the Earth? How <hi>boundleſs</hi> had <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n the Extent of your <hi>Glorious</hi> Empire? Who <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ld not have been of a <hi>Religion</hi> recommended <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the moſt <hi>Chriſtian</hi> Monarch? And why, ſince <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r Potent Predeceſſors of <hi>Aſſyria, Perſia, Ethiopia, <gap reason="illegible: in gutter" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rome,</hi> and your preſent <hi>Ally</hi> at the <hi>Port,</hi> have <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>med to themſelves a <hi>Power</hi> (ſome of them) not to determine the <hi>Modalities</hi> of Worſhip, but <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r very <hi>Gods</hi> too; ſhould the <hi>more potent Lewis</hi> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> denyed ſetting up <hi>Temples,</hi> and <hi>Altars</hi> to whom <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thinks fit; Yea even to your <hi>moſt ſacred ſelf,</hi> if ſo Royally enclined? Hath not a late Bi<g ref="char:EOLhyphen"/>ſhop<note n="†" place="margin">
+                        <hi>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>arker</hi> Ec<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſ. Polity.</note> Empowered the Magiſtrate to ſet up <hi>any Religion</hi> he thinks moſt a<g ref="char:EOLhyphen"/>greeable to the <hi>Nature</hi> and <hi>Ends</hi> of <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>vernment? and ought ſuch a Glorious <hi>Preroga<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e</hi> to be parted with? No, <hi>farewel</hi> Crown! <hi>fare<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>l</hi> Dominion! —It were much better, <hi>with my great <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſter,</hi> to be content to keep a <hi>Nurſing Room,</hi> and <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>k the <hi>Cradle</hi> of a <hi>growing Prince</hi> at St. <hi>Germans,</hi> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>n to be <hi>head</hi> of ſuch a <hi>Refractory</hi> People.</p>
+                  <p>What Prince in the Univerſe could ever be hap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r in his <hi>Allies?</hi> 'tis in the Choice of theſe the <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſtre of your great Wiſdom ſhines to the Admi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ion of all the Courts in Chriſtendom! Was ever <hi>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ith,</hi> was ever <hi>Conſtancy,</hi> and <hi>Sincerity</hi> like <hi>theirs?</hi> 
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ok into all the other Actions of their Lives, and <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>u will find them bear <hi>no proportion</hi> with their Fi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ity to your Majeſties moſt Attractive, Charming, <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d <hi>All-Chaining</hi> Intereſt.</p>
+                  <p n="3">3. A Third head to be ſpoken to is your <hi>Invinci<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Armes,</hi> the Terrour of which hath put the whole <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orld under Contribution to your matchleſs Proweſs! Are not the Gates of more Cities opened to your <hi>
+                        <gap reason="illegible: in gutter" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oles,</hi> than ever were broken open by your <hi>Bombs?</hi> 
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave not your <hi>Lewi<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'s D' or</hi> contributed more to your <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighty <hi>Conqueſts within,</hi> than ever your <hi>Batteries,</hi> and <hi>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>cks</hi> could arrive to <hi>without!</hi> What General ever <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ounted ſo ſuccesful an <hi>Artillery?</hi> Theſe never ſail<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <hi>Petards</hi> have turned ſo vaſtly to your Majeſties Intereſt; That out of an unexampled Piece of Po<g ref="char:EOLhyphen"/>l<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty, your moſt Chriſtian Majeſty hath ordered the Coyning-up of your <hi>Houſhold-Plate,</hi> and the <hi>Church-Plate,</hi> into <hi>Battering Pieces</hi> of that Kind: And having heard of a <hi>War</hi> maintained by <hi>Bodkins,</hi> and <hi>Thimbles,</hi> your Majeſty hath reſolved to try how a <hi>Storm</hi> of <hi>Cawdle Cups, Candleſticks, Baſons,</hi> and <hi>Church-Plate</hi> will ſucceed. This <hi>unaccountable Stratagem</hi> can never fail of attaining <hi>wonders;</hi> eſpecially if the Titular <hi>Prince</hi> of <hi>Wales,</hi> and the <hi>Duke</hi> of <hi>Burgundy</hi> lead the <hi>Van.</hi> Of your <hi>other Artillery</hi> I ſhall take leave to ſpeak when there is Occaſion.</p>
+                  <p n="4">4. That ſingular, and auſpicious <hi>Conduct</hi> which hath managed, and given Reputation to all your Majeſties Actions, ſhall be the laſt thing I will now preſume to mention, and trouble your Royal Pati<g ref="char:EOLhyphen"/>ence withal! And, herein, it muſt be acknowledged your Majeſty hath <hi>out-done</hi> all former <hi>Precedents.</hi> Hath not the ever victorious <hi>James</hi> reduced <hi>Ireland?</hi> Is not Monſieur <hi>Catinat</hi> in the <hi>Bowels</hi> of <hi>Savoy?</hi> were not the <hi>Dutch</hi> Troops <hi>all</hi> cut to pieces in the Plain of <hi>Flerus,</hi> and the <hi>Engliſh Fleet ſunk</hi> to the Bottom of the Sea, all but about <hi>Eighty Sail</hi> now in queſt of the <hi>Victorious French Fleet?</hi> Are not not <hi>all</hi> the <hi>Maritime Towns</hi> in <hi>England burnt,</hi> their <hi>Country Ravaged,</hi> and have <hi>given</hi> their late <hi>King, Queen,</hi> and the <hi>Prince</hi> of <hi>Wales</hi> for <hi>Hoſtages,</hi> that they will be Loyal and Obe<g ref="char:EOLhyphen"/>dient <hi>Vaſſals</hi> to your Majeſty for the future? If this Horour be denied to your Majeſty after ſo many glo<g ref="char:EOLhyphen"/>rious <hi>Efforts</hi> of your inimitable Courage, and Con<g ref="char:EOLhyphen"/>duct, what can be hoped from a <hi>blind, ſordid,</hi> and <hi>un<g ref="char:EOLhyphen"/>grateful World?</hi>
+                  </p>
+                  <p>I am not ignorant the Cenſorious part of Man<g ref="char:EOLhyphen"/>kind think, that the equipping the moſt Glorious <hi>Fleet</hi> that <hi>ever</hi> put to Sea out of the <hi>Ports</hi> of <hi>France,</hi> and that to a Charge ſo ſtupendiouſly great, that it hath ſunk the mighty <hi>Heaps</hi> your Majeſty hath been for many Years paſt <hi>Ravaging</hi> from the reſt of <hi>Eu<g ref="char:EOLhyphen"/>rope;</hi> They think the proligious <hi>Charge</hi> of that <hi>Fleet,</hi> and the <hi>Army</hi> in <hi>Ireland</hi> have not been anſwered by <hi>Succeſſes</hi> of <hi>either.</hi> They little conſider the <hi>Glory</hi> that is acquired by <hi>burning</hi> the <hi>Fiſherboats,</hi> and <hi>Cottages</hi> at <hi>Tingmouth;</hi> and the vaſt <hi>Reputation</hi> Monſieur <hi>Lau<g ref="char:EOLhyphen"/>zun</hi> and <hi>my ſelf</hi> have purchaſed to our ſelves by for<g ref="char:EOLhyphen"/>tifying <hi>Limrick,</hi> and <hi>Galloway,</hi> from whence we have Convenience of <hi>Retiring,</hi> when <hi>we</hi> can ſtay no lon<g ref="char:EOLhyphen"/>ger! And what will their <hi>Great Captain</hi> and Leaden <hi>King William</hi> have <hi>Conquered</hi> after all the <hi>expoſing</hi> his <hi>Perſon,</hi> and <hi>fatigue</hi> of his <hi>Army,</hi> but a bare <hi>Skelleton</hi> of a <hi>Kingdom;</hi> a <hi>Country deſpoiled,</hi> and <hi>depopulated?</hi> And ſuch your great Wiſdom hath taken Care the <hi>French Kingdom</hi> ſhall be, if ever the <hi>Conſederate Arms</hi> ſhould poſſeſs <hi>themſelves</hi> of their <hi>Dividents there.</hi>
+                  </p>
+                  <p>
+                     <hi>We</hi> have not omitted, Mighty Sir, to <hi>ſmoak</hi> the Al<g ref="char:EOLhyphen"/>tar of St. <hi>Patrick</hi> every Day, and to call upon all our <hi>Tutelar Guardians, Male,</hi> and <hi>Female;</hi> but whether they are ſo buſied in preparing <hi>Equipages</hi> to grace <hi>your</hi> ſolemn <hi>Triumphs,</hi> or whether <hi>they</hi> are reſolved
+<pb n="4" facs="tcp:55567:3"/>your Majeſty ſhall have the Glory of your Acqueſts entirely to your ſelf; certain it is we have not been able to prevail with them, to ſet one Finger to the <hi>work;</hi> which makes <hi>our Enemies</hi> vociferate, as if the Day were their <hi>own:</hi> Nothing can give <hi>checque</hi> to their Inſolence, but the Pomps of your Majeſties <hi>Triumphal Medals, Statues,</hi> and <hi>Arches;</hi> and rather than let the <hi>Notion</hi> of your Victories yet out of your Peoples heads; had I the Honour to be of your ſu<g ref="char:EOLhyphen"/>pream <hi>Divan,</hi> my humble Motion ſhould be, that <hi>Luſtrations, Ovations,</hi> and a <hi>General Jubile</hi> ſhould be <hi>proclaimed;</hi> That if the <hi>Enemies Troops</hi> come into your <hi>Country,</hi> they may find ſuch Marks of <hi>Joy</hi> and <hi>Satis<g ref="char:EOLhyphen"/>faction,</hi> that may prevail with them to lay down <hi>their Arms,</hi> and put themſelves <hi>under</hi> the happy Govern<g ref="char:EOLhyphen"/>ment of ſo <hi>clement</hi> a <hi>Monarch:</hi> Or if that ſhall not prevail with them to omit the <hi>Proſecution</hi> of their <hi>Revengeful Purpoſes,</hi> How glorious, and unpreſidented will it be for your Invincible <hi>Monarchſhip</hi> to <hi>expire Phoenix-like</hi> in your own <hi>Neſt</hi> of Spices at <hi>Verſailes!</hi>
+                  </p>
+                  <p>To conclude this ſwelling Paper, How very <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>temptible muſt the great <hi>Alexander,</hi> and <hi>Caeſar,</hi> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon themſelves to be, when they ſhall conſider <hi>much greater Lewis</hi> in all his <hi>Glories,</hi> amidſt <hi>Altars, Triumphs, Acclamations</hi> and <hi>Statues,</hi> ſitting down <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> an <hi>undiſturbed Calmneſs,</hi> like a <hi>Roman Deity,</hi> ei<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> playing a Game at Cards with <hi>Madam Maintini<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> his Pompous <hi>Trianon,</hi> for the next <hi>To-be-conqu<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Kingdom,</hi> or elſe diverting himſelf amongſt his <hi>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ter-works:</hi> And that ſhall ſee the <hi>Mighty James</hi> loa<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> with <hi>Lawrels</hi> and <hi>Triumphs,</hi> forſake his <hi>growing <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tories</hi> to come, and <hi>ſhake</hi> a <hi>Rattle</hi> to his <hi>Mirac<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Prince</hi> at St. <hi>Germains?</hi> Who, I ſay, can behold <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>unexampled Heroes;</hi> thus <hi>innocently entertaining</hi> th<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſelves amidſt the <hi>unintelligible</hi> Crouds of their h<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ble <hi>Adorers?</hi> This, Mighty Conquerour, is the h<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pineſs I moſt Ambition, and ſhall take the firſt o<gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>portunity to number my ſelf amongſt theſe <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Throngs:</hi> I am,</p>
+                  <closer>
+                     <salute>Moſt Dread,<lb/> Moſt Invincible,<lb/> Moſt Tremendous Monarch,</salute>
+                     <signed>Your Moſt Chriſtian Majeſties,<lb/> Moſt Bigotted,<lb/> Moſt Stupid, and<lb/> Moſt Conſtant<lb/> Vaſſal, Adorer and Admirer,<lb/> 
+                        <hi>TYRCONNEL</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Baily,</hi> 1690</p>
+         </div>
+      </back>
+   </text>
+</TEI>
